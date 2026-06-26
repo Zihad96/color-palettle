@@ -81,3 +81,10 @@ border-top-right-radius: 15px;
     width: 100%;
    padding: 10px;
 }
+
+.allcolor:hover{
+    transform: translateY(-5PX);
+}
+.allcolor:active{
+    transform: translateY(0px);
+}
